@@ -300,7 +300,7 @@ defaults:
       path: "posts"
       type: posts
     values:
-      layout: posts
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
