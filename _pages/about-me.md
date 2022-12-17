@@ -11,8 +11,8 @@ Some data about my projects,
 
 **Repo stats**
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmmarques" alt="Top languages" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?custom_title=My%20repos&username=fmmarques&show_icons=true&locale=en" alt="Repo stats" />
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?custom_title=My%20repos&username=fmmarques&show_icons=true&locale=en" alt="Repo stats" />
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmmarques" alt="Top languages" />
 </p>
 
 ## Coding platforms
