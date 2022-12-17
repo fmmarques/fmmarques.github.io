@@ -4,26 +4,18 @@ permalink: /about-me/
 author_profile: true
 ---
 
-I'm a SWE hailing from Portugal. If you came across this repo, you're either a
-very diligent recruiter :mag: or kindred geek spirit :computer:. 
+I'm a SWE hailing from Lisbon, Portugal. I enjoy developing personal
+projects and publishing some content to friends and acquaitances.
 
-I'm happy to make your acquaitance either way :), however this is a personal
-space, where I warehouse some projects and useful (for me) stuff, and it is 
-always in flux (always changing).
+Some data about my projects,
 
-## Where to start
-
-I'm still filling out GitHub from older hosting platforms. If you're still 
-interested in seeing some of my work, I can help you out fellow recruiter: check out [my repos](https://github.com/fmmarques/fmmarques)
-
-**Some stats**
+**Repo stats**
 <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmmarques">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmmarques" alt="Top languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fmmarques&show_icons=true&locale=en" alt="Repo stats" />
 </p>
 
-
-
-### Navigation out of the way! What else?
+## Coding platforms
 
 I've recently found that I like to do some challenges online. So, from time to 
 time, I load up some LeetCode or HackerRank and do a challenge or a cert.
@@ -43,7 +35,7 @@ Here's some data about that, if that is something you care about.
                     <td style="border: 0px;" valign="center"><p align="center"><img width="0px" src=""></p></td>
                 </tr>
                 <tr style="border: 0px;">
-                    <td style="border: 0px;" valign="center"><p align="center"><img width="50%" height="50%" src="https://github.com/Praneet-Botke/Hackerrank-Skills-Certificates-Badges/blob/main/Problem%20Solving(Basic)%20Verified.jpeg"></p></td>
+                    <td style="border: 0px;" valign="center"><p align="center"><img width="50%" height="50%" src="https://raw.githubusercontent.com/Praneet-Botke/Hackerrank-Skills-Certificates-Badges/main/Problem%20Solving(Basic)%20Verified.jpeg"></p></td>
                     <td style="border: 0px;" valign="center"><p align="center"><img width="50%" height="50%" src="https://github.com/Praneet-Botke/Hackerrank-Skills-Certificates-Badges/blob/main/Python(Basic)%20Verified.jpeg"></p></td>
                     <td style="border: 0px;" valign="center"><p align="center"><img width="50%" height="50%" src="https://github.com/Praneet-Botke/Hackerrank-Skills-Certificates-Badges/blob/main/Javascript(Basic)%20Verified.jpeg"></p></td>
                 </tr>
