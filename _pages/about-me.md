@@ -12,7 +12,7 @@ Some data about my projects,
 **Repo stats**
 <p align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmmarques" alt="Top languages" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fmmarques&show_icons=true&locale=en" alt="Repo stats" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=fmmarques&show_icons=true&locale=en" alt="Repo stats" />
 </p>
 
 ## Coding platforms
