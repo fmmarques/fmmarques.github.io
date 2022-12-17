@@ -4,8 +4,6 @@ permalink: /about-me/
 author_profile: true
 ---
 
-# About me
-
 I'm a SWE hailing from Portugal. If you came across this repo, you're either a
 very diligent recruiter :mag: or kindred geek spirit :computer:. 
 
