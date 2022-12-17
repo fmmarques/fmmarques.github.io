@@ -33,8 +33,8 @@ Here's some data about that, if that is something you care about.
             <table align="center" style="border:0px solid white; width: 100%;">
                 <tr style="border: 0px;">
                     <td style="border: 0px;" valign="center"><p align="center"><img width="50%" src="https://raw.githubusercontent.com/Praneet-Botke/Hackerrank-Skills-Certificates-Badges/main/Problem.jpeg"></p></td>
-                    <td style="border: 0px;" valign="center"><p align="center"><img width="0px" src=""></p></td>
-                    <td style="border: 0px;" valign="center"><p align="center"><img width="0px" src=""></p></td>
+                    <td style="border: 0px;" valign="center"><p align="center"><img width="50%" style="display: hidden" src=""></p></td>
+                    <td style="border: 0px;" valign="center"><p align="center"><img width="50%" style="display: hidden" src=""></p></td>
                 </tr>
                 <tr style="border: 0px;">
                     <td style="border: 0px;" valign="center"><p align="center"><img width="50%" height="50%" src="https://raw.githubusercontent.com/Praneet-Botke/Hackerrank-Skills-Certificates-Badges/main/Problem%20Solving(Basic)%20Verified.jpeg"></p></td>
